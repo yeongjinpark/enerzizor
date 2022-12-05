@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094474704897",
+    "firebase_url": "https://test-energizor-default-rtdb.firebaseio.com",
+    "project_id": "test-energizor",
+    "storage_bucket": "test-energizor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094474704897:android:f7e1bb831ba64fee0bb800",
+        "android_client_info": {
+          "package_name": "com.cookandroid.project_energizor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094474704897-n4di3n4amiuakev0n6rjnlqnhf0t2f80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZmQgO-5dIMw70jL2N2tGPOOsguAEFs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094474704897-n4di3n4amiuakev0n6rjnlqnhf0t2f80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
