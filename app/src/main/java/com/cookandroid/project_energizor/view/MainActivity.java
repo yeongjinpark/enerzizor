@@ -433,6 +433,7 @@ public class MainActivity extends AppCompatActivity implements
                                     @Override
                                     public void run() {
                                         iv_Noti.setVisibility(View.INVISIBLE);
+                                        mediaPlayer.stop();
                                     }
                                 });
                         }
